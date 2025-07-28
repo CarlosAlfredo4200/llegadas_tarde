@@ -1,0 +1,4 @@
+1 Descargar el reporte de Q10 y pegarlo en la carpeta de C:\CARLOS\colegio\LlegadasTardeAExcel
+2 En el archivo de excel Base actualizar conexiones y cargar y guardar
+3 correr : llegadas_tarde_excel_json.py
+4 cambiar el archivo en la base de datos mongodb
